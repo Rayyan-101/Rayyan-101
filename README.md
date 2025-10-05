@@ -37,7 +37,7 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 ## 🌟 Key Projects
 
-### 1. [AI-Powered LMS](https://github.com/Rayyan-101/AI-LMS)
+### 1. [AI-Powered LMS](https://github.com/Rayyan-101/AI-Learning-Management-System)
 - **Description:** Full-Stack AI-driven Learning Management System delivering personalized course outlines, quizzes, flashcards, and notes.  
 - **Tech Stack:** Next.js, React, Node.js, Tailwind CSS, Clerk, Neon (Serverless PostgreSQL), Inngest, Google Gemini AI  
 - **Highlights:** 
