@@ -92,6 +92,10 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayyan-101)](https://github.com/anuraghazra/github-readme-stats)
 
+## Most Used Languages
+## 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-101&layout=compact&langs_count=10&theme=radical)
+
 ### ⚡ Fun Fact
 
 I enjoy turning complex problems into **simple, elegant solutions**, whether it’s optimizing backend APIs or building pixel-perfect UIs.  
