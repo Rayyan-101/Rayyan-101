@@ -90,6 +90,8 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayyan-101)](https://github.com/anuraghazra/github-readme-stats)
+
 ### ⚡ Fun Fact
 
 I enjoy turning complex problems into **simple, elegant solutions**, whether it’s optimizing backend APIs or building pixel-perfect UIs.  
