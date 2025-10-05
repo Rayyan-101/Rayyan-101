@@ -90,8 +90,6 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayyan-101)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-101&layout=compact&langs_count=10&theme=radical)
 
