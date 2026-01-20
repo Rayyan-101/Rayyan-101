@@ -7,6 +7,14 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 ---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rayyan-101&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Rayyan-101?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/Rayyan-101?label=Total%20Stars&style=flat" />
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript, Bootstrap  
@@ -62,6 +70,35 @@ I thrive on learning new technologies, solving complex problems, and contributin
 - Solved **500+ DSA problems** on LeetCode, HackerRank, and GeeksforGeeks  
 - **HackerRank Gold (5 Stars)** in Data Structures & Algorithms  
 - **HackerRank Gold (5 Stars)** in C++ Programming  
+
+---
+
+## 🔁 Open Source Contributions
+
+- Actively contributing to **open-source projects**
+- Creating **meaningful Pull Requests (PRs)** with clean commits and documentation
+- Experience with **code reviews, issue discussions, and collaborative development**
+
+<p align="left">
+  <img src="https://img.shields.io/github/issues-pr/Rayyan-101?label=Pull%20Requests&style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr-closed/Rayyan-101?label=Merged%20PRs&style=for-the-badge&color=success" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rayyan-101&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayyan-101&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rayyan-101&theme=radical&row=1&column=6" />
+</p>
 
 ---
 
