@@ -7,14 +7,6 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rayyan-101&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Rayyan-101?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/Rayyan-101?label=Total%20Stars&style=flat" />
-</p>
-
----
-
 ## 💻 Tech Stack
 
 **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript, Bootstrap  
@@ -75,15 +67,21 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 ## 🔁 Open Source Contributions
 
-- Actively contributing to **open-source projects**
-- Creating **meaningful Pull Requests (PRs)** with clean commits and documentation
-- Experience with **code reviews, issue discussions, and collaborative development**
+- Actively contributing to **open-source projects** with a focus on real-world impact  
+- Creating **high-quality Pull Requests (PRs)** with clean commits, clear commit messages, and proper documentation  
+- Experienced in **code reviews, issue discussions, bug fixes, and feature enhancements**  
+- Comfortable collaborating in **distributed teams** using GitHub workflows and best practices  
 
 <p align="left">
-  <img src="https://img.shields.io/github/issues-pr/Rayyan-101?label=Pull%20Requests&style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr/Rayyan-101?label=Open%20PRs&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/issues-pr-closed/Rayyan-101?label=Merged%20PRs&style=for-the-badge&color=success" />
+  <img src="https://img.shields.io/github/commit-activity/m/Rayyan-101?label=Monthly%20Commits&style=for-the-badge&color=orange" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/github/contributors/Rayyan-101/Chatify?label=Contributors&style=flat" />
+  <img src="https://img.shields.io/github/last-commit/Rayyan-101/Chatify?label=Last%20Contribution&style=flat" />
+</p>
 ---
 
 ## 📊 GitHub Stats
