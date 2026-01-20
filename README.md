@@ -76,7 +76,7 @@ I thrive on learning new technologies, solving complex problems, and contributin
   <img src="https://github-readme-stats.vercel.app/api?username=Rayyan-101&show_icons=true&theme=radical" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayyan-101&theme=radical" />
 </p>
 ---
