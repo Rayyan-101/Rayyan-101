@@ -81,20 +81,6 @@ I thrive on learning new technologies, solving complex problems, and contributin
 </p>
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayyan-101&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayyan-101&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rayyan-101&theme=radical&row=1&column=6" />
-</p>
-
 ---
 
 ## 💡 What I’m Passionate About
