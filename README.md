@@ -68,19 +68,16 @@ I thrive on learning new technologies, solving complex problems, and contributin
 ## 🔁 Open Source Contributions
 
 - Actively contributing to **open-source projects** with a focus on real-world impact  
-- Creating **high-quality Pull Requests (PRs)** with clean commits, clear commit messages, and proper documentation  
+- Creating **high-quality Pull Requests (PRs)** with clean commits, meaningful messages, and proper documentation  
 - Experienced in **code reviews, issue discussions, bug fixes, and feature enhancements**  
 - Comfortable collaborating in **distributed teams** using GitHub workflows and best practices  
 
 <p align="left">
-  <img src="https://img.shields.io/github/issues-pr/Rayyan-101?label=Open%20PRs&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/issues-pr-closed/Rayyan-101?label=Merged%20PRs&style=for-the-badge&color=success" />
-  <img src="https://img.shields.io/github/commit-activity/m/Rayyan-101?label=Monthly%20Commits&style=for-the-badge&color=orange" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rayyan-101&show_icons=true&theme=radical" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/github/contributors/Rayyan-101/Chatify?label=Contributors&style=flat" />
-  <img src="https://img.shields.io/github/last-commit/Rayyan-101/Chatify?label=Last%20Contribution&style=flat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayyan-101&theme=radical" />
 </p>
 ---
 
