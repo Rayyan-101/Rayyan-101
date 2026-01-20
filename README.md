@@ -72,9 +72,10 @@ I thrive on learning new technologies, solving complex problems, and contributin
 - Experienced in **code reviews, issue discussions, bug fixes, and feature enhancements**  
 - Comfortable collaborating in **distributed teams** using GitHub workflows and best practices  
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rayyan-101&show_icons=true&theme=radical" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rayyan-101&show_icons=true&theme=radical" /> </p>
 
-<p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayyan-101&theme=radical" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayyan-101&theme=radical" /> </p>
+
 ---
 
 ## 💡 What I’m Passionate About
