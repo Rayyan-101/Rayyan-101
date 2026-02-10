@@ -1,6 +1,6 @@
 # Hi, I'm Mohd Rayyan Lulaniya 👋
 
-🌟 **Full-Stack Developer | React & Next.js Enthusiast | Open Source Contributor**
+🌟 **Full-Stack Developer | React.js & Next.js Enthusiast | Open Source Contributor**
 
 I am a passionate developer who loves building **scalable, real-world web applications** with a focus on **frontend performance, responsive UI, and maintainable code architecture**.  
 I thrive on learning new technologies, solving complex problems, and contributing to **open-source projects** that impact real users.
