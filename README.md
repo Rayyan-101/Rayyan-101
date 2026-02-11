@@ -39,7 +39,7 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 ### 1. [AI-Powered LMS](https://github.com/Rayyan-101/AI-Learning-Management-System)
 - **Description:** Full-Stack AI-driven Learning Management System delivering personalized course outlines, quizzes, flashcards, and notes.  
-- **Tech Stack:** Next.js, React, Node.js, Tailwind CSS, Clerk, Neon (Serverless PostgreSQL), Inngest, Google Gemini AI  
+- **Tech Stack:** Next.js, React.js, Node.js, Tailwind CSS, Clerk, Neon (Serverless PostgreSQL), Inngest, Google Gemini AI  
 - **Highlights:** 
   - Fully responsive and mobile-friendly  
   - Serverless backend with optimized REST APIs  
