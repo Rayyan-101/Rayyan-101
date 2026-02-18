@@ -12,7 +12,7 @@ I thrive on learning new technologies, solving complex problems, and contributin
 **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript, Bootstrap  
 **Backend:** Node.js, Express.js, PHP  
 **Databases:** MongoDB, PostgreSQL, MySQL, Oracle  
-**Cloud & Deployment:** AWS (EC2, S3), Netlify, Vercel  
+**Cloud & Deployment:** AWS, Netlify, Vercel  
 **Other Tools:** Git, GitHub, Postman, JWT, RESTful APIs  
 **AI Integration:** Google Gemini (AI-powered content automation)  
 
