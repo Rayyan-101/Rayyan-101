@@ -59,7 +59,7 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 ## 🚀 Achievements
 
-- Solved **500+ DSA problems** on LeetCode, HackerRank, and GeeksforGeeks  
+- Solved **700+ DSA problems** on LeetCode, HackerRank, and GeeksforGeeks  
 - **HackerRank Gold (5 Stars)** in Data Structures & Algorithms  
 - **HackerRank Gold (5 Stars)** in C++ Programming  
 
