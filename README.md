@@ -1,4 +1,4 @@
-# Hi, I'm Mohd Rayyan Lulaniya 👋
+# Hi, I'm Mohammad Rayyan Lulaniya 👋
 
 🌟 **Full-Stack Developer | React.js & Next.js Enthusiast | Open Source Contributor**
 
