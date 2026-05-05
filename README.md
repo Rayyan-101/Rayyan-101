@@ -13,6 +13,7 @@ I thrive on learning new technologies, solving complex problems, and contributin
 **Backend:** Node.js, Express.js
 **Databases:** MongoDB, PostgreSQL, MySQL, Oracle  
 **Cloud & Deployment:** AWS, Netlify, Vercel, Render
+
 **Other Tools:** Git, GitHub, Postman, JWT, RESTful APIs  
 **AI Integration:** Google Gemini API (AI-powered content automation)  
 
