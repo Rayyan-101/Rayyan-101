@@ -37,7 +37,6 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 ---
 
-
 ## 🌟 Key Projects
 
 ### 1. [AI-Powered LMS](https://github.com/Rayyan-101/AI-Learning-Management-System)
