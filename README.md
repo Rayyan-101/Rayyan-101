@@ -16,7 +16,6 @@ I thrive on learning new technologies, solving complex problems, and contributin
 **Other Tools:** Git, GitHub, Postman, JWT, RESTful APIs  
 **AI Integration:** Google Gemini API (AI-powered content automation)  
 
-
 ---
 
 
