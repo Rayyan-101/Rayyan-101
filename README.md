@@ -11,8 +11,8 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript, Bootstrap  
 **Backend:** Node.js, Express.js
-**Databases:** MongoDB, MySQL  
 
+**Databases:** MongoDB, MySQL  
 **Cloud & Deployment:** AWS, Vercel, Render
 **Other Tools:** Git, GitHub, Postman, JWT, RESTful APIs  
 **AI Integration:** Google Gemini API (AI-powered content automation)  
