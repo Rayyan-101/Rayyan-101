@@ -59,7 +59,6 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 ---
 
-
 ## 🚀 Achievements
 
 - Solved **800+ DSA problems** on LeetCode, HackerRank, and GeeksforGeeks  
