@@ -55,8 +55,8 @@ I thrive on learning new technologies, solving complex problems, and contributin
 ### 3. [StaySphere](https://github.com/Rayyan-101/StaySphere)
 - **Description:** Web application for booking and listing rental stays.  
 - **Tech Stack:** Node.js, Express.js, MongoDB, EJS, MVC Architecture  
-- **Highlights:** Secure role-based access, fast API response (<150ms), optimized server-side rendering  
-
+- **Highlights:** Secure role-based access, fast API response (<150ms), optimized server-side rendering
+  
 ---
 
 ## 🚀 Achievements
