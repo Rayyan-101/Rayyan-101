@@ -9,6 +9,7 @@ I thrive on learning new technologies, solving complex problems, and contributin
 
 ## 💻 Tech Stack
 
+
 **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript, Bootstrap  
 **Backend:** Node.js, Express.js
 **Databases:** MongoDB, MySQL  
